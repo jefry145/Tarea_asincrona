@@ -1,0 +1,16 @@
+img{
+    height: 320px;
+}
+#text_card{
+    color: rgb(255, 255, 255);
+    font-weight:800;
+    font-size: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#titulo{
+    margin: 10px 17%;
+    font-size: 35px;
+    background: rgb(248, 242, 255);
+    color: blueviolet;
+    box-shadow: 8px 8px 8px 8px;
+}
